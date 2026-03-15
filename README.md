@@ -34,6 +34,20 @@ A LangGraph-powered meta-agent that takes a plain-English scenario (e.g. *"Claim
 
 The meta-agent writes configuration to Supabase; the frontend reads it and renders the appropriate components. Change the scenario, re-run, and you get a completely different app.
 
+### Screenshots
+
+**Dashboard** — KPIs, market data table, charts, and AI chat sidebar
+
+![Dashboard](screenshots/dashboard.png)
+
+**Document Upload** — Upload SEC filings, earnings reports, or any document for AI-powered extraction and analysis
+
+![Documents](screenshots/documents.png)
+
+**Research** — Ask the AI to research any topic using internal data and external sources
+
+![Research](screenshots/research.png)
+
 ---
 
 ## Prerequisites
