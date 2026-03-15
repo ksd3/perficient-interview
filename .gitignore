@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Environment files (keep .example files)
+.env
+.env.local
+.env*.local
+!*.example
+
+# Next.js
+.next/
+
+# Plans (generated, may contain API URLs)
+plans/
+
+# OS
+.DS_Store

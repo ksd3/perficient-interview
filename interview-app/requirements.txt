@@ -1,0 +1,7 @@
+langgraph
+langchain
+langchain-anthropic
+supabase
+httpx
+python-dotenv
+fastapi
